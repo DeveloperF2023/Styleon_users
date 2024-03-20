@@ -1,6 +1,6 @@
 # shop
 
-A new Flutter project.
+During 1 month I made StyleOn project with Flutter, Getx and PHP.
 
 ## Getting Started
 
